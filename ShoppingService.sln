@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingService", "ShoppingService\ShoppingService.csproj", "{BD7110AE-0E15-4426-8367-E6300F4B1127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingDAL", "ShoppingDAL\ShoppingDAL.csproj", "{DF6ACE1B-77DB-4E54-B560-200527F47AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBAL", "ShoppingBAL\ShoppingBAL.csproj", "{83BB3268-7A18-4AB8-B3F3-18FC40E32BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7110AE-0E15-4426-8367-E6300F4B1127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7110AE-0E15-4426-8367-E6300F4B1127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7110AE-0E15-4426-8367-E6300F4B1127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7110AE-0E15-4426-8367-E6300F4B1127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6ACE1B-77DB-4E54-B560-200527F47AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6ACE1B-77DB-4E54-B560-200527F47AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6ACE1B-77DB-4E54-B560-200527F47AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6ACE1B-77DB-4E54-B560-200527F47AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BB3268-7A18-4AB8-B3F3-18FC40E32BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BB3268-7A18-4AB8-B3F3-18FC40E32BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BB3268-7A18-4AB8-B3F3-18FC40E32BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BB3268-7A18-4AB8-B3F3-18FC40E32BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

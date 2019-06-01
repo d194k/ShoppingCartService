@@ -1,0 +1,11 @@
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\ShoppingBAL.dll
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\ShoppingBAL.pdb
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\EntityFramework.dll
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\ShoppingDAL.dll
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\ShoppingDAL.pdb
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\EntityFramework.xml
+C:\Projects\ShoppingService\ShoppingBAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\ShoppingService\ShoppingBAL\obj\Debug\ShoppingBAL.csprojResolveAssemblyReference.cache
+C:\Projects\ShoppingService\ShoppingBAL\obj\Debug\ShoppingBAL.dll
+C:\Projects\ShoppingService\ShoppingBAL\obj\Debug\ShoppingBAL.pdb
